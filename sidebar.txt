@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[blg:home|Door43 (blg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-blg|d43-blg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-blg/archive/master.zip|d43-blg.zip]]
+
+**Recent Changes**
+{{changes>ns = blg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/blg|Ethnologue data]]
+
